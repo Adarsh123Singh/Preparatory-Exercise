@@ -1,0 +1,55 @@
+.mybutton{
+    position: absolute;
+    top: 0;
+    right: 0;
+    padding: 10px;
+    margin: 20px;
+    background-color: rgb(191, 32, 32);
+    color: white;
+    height: 50px;
+    width: 180px;
+    font-size: 20px;
+    border: 0;
+    border-radius: 5px;
+}
+.mybutton1{
+    position: absolute;
+    top: 0;
+    right: 1;
+    padding: 10px;
+    margin: 20px 20px 20px 900px;
+    background-color: rgb(191, 32, 32);
+    color: white;
+    height: 50px;
+    width: 180px;
+    font-size: 20px;
+    border: 0;
+    border-radius: 5px;
+}
+.container{
+    display: inline-block;
+}
+.Elib{
+    width: 200px;
+    height: 50px;
+}
+.center{
+    text-align: center;
+}
+.container 1{
+    text-align: right;
+}
+.SAVE{
+    position: absolute;
+    bottom: 0;
+    right: 0;
+    padding: 10px;
+    margin: 20px;
+    background-color: rgb(191, 32, 32);
+    color: white;
+    height: 50px;
+    width: 180px;
+    font-size: 20px;
+    border: 0;
+    border-radius: 5px;
+}
